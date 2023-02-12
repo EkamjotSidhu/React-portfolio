@@ -1,4 +1,5 @@
 ## Description
+
 This repository is the REACT Portfolio app. The challenge consists of various acceptance criteria as mentioned:
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio<br/>
@@ -27,6 +28,7 @@ WHEN I view the footer<br/>
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) <br/>
 
 ## Usage
+
 To use the application go to following link https://react-portfolio-101.herokuapp.com/
 The image bellow shows the screenshot of the app
 ![alt text](./src/component/Assets/Images/appScreenshot.png)
