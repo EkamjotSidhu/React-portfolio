@@ -7,7 +7,7 @@ import custompcbuild from ".././Assets/Images/cutompcbuild.png"
 import weatherdashboard from ".././Assets/Images/weatherdashboard.png"
 import quizchallenge from ".././Assets/Images/quizchallenge.png"
 import workdayscheduler from ".././Assets/Images/workdayscheduler.png"
-import eCommerce from "../Assets/Images/collections.jpg"
+import eCommerce from "../Assets/Images/collections.jpeg"
 function Portfolio() {
     const portfolio = [{
         "image": miniGames,
